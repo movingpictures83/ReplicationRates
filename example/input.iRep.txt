@@ -1,0 +1,3 @@
+package	iRep
+fasta	plugins/ReplicationRates/example/l_gasseri.fna
+sam	plugins/ReplicationRates/example/l_gasseri*sam
