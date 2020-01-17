@@ -1,0 +1,2 @@
+package	gc_skew.py
+fasta	plugins/ReplicationRates/example/l_gasseri.fna
