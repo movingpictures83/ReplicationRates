@@ -23,8 +23,8 @@ class ReplicationRatesPlugin:
             self.command += " -m coverage"
 
    def output(self, filename):
-      if (filename != "none"):
+      if not filename.endswith("/none"):
          self.command += " -o " + filename
-      self.command += " -ff"
+         self.command += " -ff"
       os.system(self.command)
 
