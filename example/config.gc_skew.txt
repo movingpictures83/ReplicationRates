@@ -1,0 +1,2 @@
+Prefix plugins/ReplicationRates/example/
+Plugin ReplicationRates inputfile input.gc_skew.txt outputfile none
