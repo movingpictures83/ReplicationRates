@@ -2,8 +2,9 @@
 # Language: Python
 # Dependency: iRep
 # Input: TXT 
-# Output: varies
-# Tested with: PluMA 1.0, Python 3.6
+# Output: prefix
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: numpy==1.16.0
 
 PluMA plugin to compute replication rates for bacteria
 using the method of (Brown et al, 2016).  Their method is
